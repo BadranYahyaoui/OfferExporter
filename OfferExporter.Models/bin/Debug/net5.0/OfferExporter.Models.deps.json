@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "OfferExporter.Models/1.0.0": {
+        "runtime": {
+          "OfferExporter.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OfferExporter.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

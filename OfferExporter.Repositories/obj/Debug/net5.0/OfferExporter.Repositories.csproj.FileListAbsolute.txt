@@ -1,0 +1,34 @@
+C:\Users\Mraih\Desktop\DevBack.Refactoring\OfferExporter.Repositories\obj\Debug\net5.0\OfferExporter.Repositories.csproj.AssemblyReference.cache
+C:\Users\Mraih\Desktop\DevBack.Refactoring\OfferExporter.Repositories\obj\Debug\net5.0\OfferExporter.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mraih\Desktop\DevBack.Refactoring\OfferExporter.Repositories\obj\Debug\net5.0\OfferExporter.Repositories.AssemblyInfoInputs.cache
+C:\Users\Mraih\Desktop\DevBack.Refactoring\OfferExporter.Repositories\obj\Debug\net5.0\OfferExporter.Repositories.AssemblyInfo.cs
+C:\Users\Mraih\Desktop\DevBack.Refactoring\OfferExporter.Repositories\obj\Debug\net5.0\OfferExporter.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Mraih\Desktop\DevBack.Refactoring\OfferExporter.Repositories\bin\Debug\net5.0\OfferExporter.Repositories.deps.json
+C:\Users\Mraih\Desktop\DevBack.Refactoring\OfferExporter.Repositories\bin\Debug\net5.0\OfferExporter.Repositories.dll
+C:\Users\Mraih\Desktop\DevBack.Refactoring\OfferExporter.Repositories\bin\Debug\net5.0\ref\OfferExporter.Repositories.dll
+C:\Users\Mraih\Desktop\DevBack.Refactoring\OfferExporter.Repositories\bin\Debug\net5.0\OfferExporter.Repositories.pdb
+C:\Users\Mraih\Desktop\DevBack.Refactoring\OfferExporter.Repositories\bin\Debug\net5.0\OfferExporter.Common.dll
+C:\Users\Mraih\Desktop\DevBack.Refactoring\OfferExporter.Repositories\bin\Debug\net5.0\OfferExporter.Models.dll
+C:\Users\Mraih\Desktop\DevBack.Refactoring\OfferExporter.Repositories\bin\Debug\net5.0\OfferExporter.Common.pdb
+C:\Users\Mraih\Desktop\DevBack.Refactoring\OfferExporter.Repositories\bin\Debug\net5.0\OfferExporter.Models.pdb
+C:\Users\Mraih\Desktop\DevBack.Refactoring\OfferExporter.Repositories\obj\Debug\net5.0\OfferExporter.Repositories.csproj.CopyComplete
+C:\Users\Mraih\Desktop\DevBack.Refactoring\OfferExporter.Repositories\obj\Debug\net5.0\OfferExporter.Repositories.dll
+C:\Users\Mraih\Desktop\DevBack.Refactoring\OfferExporter.Repositories\obj\Debug\net5.0\ref\OfferExporter.Repositories.dll
+C:\Users\Mraih\Desktop\DevBack.Refactoring\OfferExporter.Repositories\obj\Debug\net5.0\OfferExporter.Repositories.pdb
+C:\Users\uzer\Desktop\test fnac victor\v1\DevBack.Refactoring\OfferExporter.Repositories\bin\Debug\net5.0\OfferExporter.Repositories.deps.json
+C:\Users\uzer\Desktop\test fnac victor\v1\DevBack.Refactoring\OfferExporter.Repositories\bin\Debug\net5.0\OfferExporter.Repositories.dll
+C:\Users\uzer\Desktop\test fnac victor\v1\DevBack.Refactoring\OfferExporter.Repositories\bin\Debug\net5.0\OfferExporter.Repositories.pdb
+C:\Users\uzer\Desktop\test fnac victor\v1\DevBack.Refactoring\OfferExporter.Repositories\bin\Debug\net5.0\OfferExporter.Common.dll
+C:\Users\uzer\Desktop\test fnac victor\v1\DevBack.Refactoring\OfferExporter.Repositories\bin\Debug\net5.0\OfferExporter.Models.dll
+C:\Users\uzer\Desktop\test fnac victor\v1\DevBack.Refactoring\OfferExporter.Repositories\bin\Debug\net5.0\OfferExporter.Common.pdb
+C:\Users\uzer\Desktop\test fnac victor\v1\DevBack.Refactoring\OfferExporter.Repositories\bin\Debug\net5.0\OfferExporter.Models.pdb
+C:\Users\uzer\Desktop\test fnac victor\v1\DevBack.Refactoring\OfferExporter.Repositories\obj\Debug\net5.0\OfferExporter.Repositories.csproj.AssemblyReference.cache
+C:\Users\uzer\Desktop\test fnac victor\v1\DevBack.Refactoring\OfferExporter.Repositories\obj\Debug\net5.0\OfferExporter.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uzer\Desktop\test fnac victor\v1\DevBack.Refactoring\OfferExporter.Repositories\obj\Debug\net5.0\OfferExporter.Repositories.AssemblyInfoInputs.cache
+C:\Users\uzer\Desktop\test fnac victor\v1\DevBack.Refactoring\OfferExporter.Repositories\obj\Debug\net5.0\OfferExporter.Repositories.AssemblyInfo.cs
+C:\Users\uzer\Desktop\test fnac victor\v1\DevBack.Refactoring\OfferExporter.Repositories\obj\Debug\net5.0\OfferExporter.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\uzer\Desktop\test fnac victor\v1\DevBack.Refactoring\OfferExporter.Repositories\obj\Debug\net5.0\OfferExporter.Repositories.csproj.CopyComplete
+C:\Users\uzer\Desktop\test fnac victor\v1\DevBack.Refactoring\OfferExporter.Repositories\obj\Debug\net5.0\OfferExporter.Repositories.dll
+C:\Users\uzer\Desktop\test fnac victor\v1\DevBack.Refactoring\OfferExporter.Repositories\obj\Debug\net5.0\refint\OfferExporter.Repositories.dll
+C:\Users\uzer\Desktop\test fnac victor\v1\DevBack.Refactoring\OfferExporter.Repositories\obj\Debug\net5.0\OfferExporter.Repositories.pdb
+C:\Users\uzer\Desktop\test fnac victor\v1\DevBack.Refactoring\OfferExporter.Repositories\obj\Debug\net5.0\ref\OfferExporter.Repositories.dll

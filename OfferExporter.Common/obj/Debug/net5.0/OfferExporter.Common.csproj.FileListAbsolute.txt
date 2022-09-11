@@ -1,0 +1,30 @@
+C:\Users\Mraih\Desktop\DevBack.Refactoring\OfferExporter.Common\bin\Debug\net5.0\OfferExporter.Common.deps.json
+C:\Users\Mraih\Desktop\DevBack.Refactoring\OfferExporter.Common\bin\Debug\net5.0\OfferExporter.Common.dll
+C:\Users\Mraih\Desktop\DevBack.Refactoring\OfferExporter.Common\bin\Debug\net5.0\ref\OfferExporter.Common.dll
+C:\Users\Mraih\Desktop\DevBack.Refactoring\OfferExporter.Common\bin\Debug\net5.0\OfferExporter.Common.pdb
+C:\Users\Mraih\Desktop\DevBack.Refactoring\OfferExporter.Common\obj\Debug\net5.0\OfferExporter.Common.csproj.AssemblyReference.cache
+C:\Users\Mraih\Desktop\DevBack.Refactoring\OfferExporter.Common\obj\Debug\net5.0\OfferExporter.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mraih\Desktop\DevBack.Refactoring\OfferExporter.Common\obj\Debug\net5.0\OfferExporter.Common.AssemblyInfoInputs.cache
+C:\Users\Mraih\Desktop\DevBack.Refactoring\OfferExporter.Common\obj\Debug\net5.0\OfferExporter.Common.AssemblyInfo.cs
+C:\Users\Mraih\Desktop\DevBack.Refactoring\OfferExporter.Common\obj\Debug\net5.0\OfferExporter.Common.csproj.CoreCompileInputs.cache
+C:\Users\Mraih\Desktop\DevBack.Refactoring\OfferExporter.Common\obj\Debug\net5.0\OfferExporter.Common.dll
+C:\Users\Mraih\Desktop\DevBack.Refactoring\OfferExporter.Common\obj\Debug\net5.0\ref\OfferExporter.Common.dll
+C:\Users\Mraih\Desktop\DevBack.Refactoring\OfferExporter.Common\obj\Debug\net5.0\OfferExporter.Common.pdb
+C:\Users\Mraih\Desktop\DevBack.Refactoring\OfferExporter.Common\bin\Debug\net5.0\OfferExporter.Models.dll
+C:\Users\Mraih\Desktop\DevBack.Refactoring\OfferExporter.Common\bin\Debug\net5.0\OfferExporter.Models.pdb
+C:\Users\Mraih\Desktop\DevBack.Refactoring\OfferExporter.Common\obj\Debug\net5.0\OfferExporter.Common.csproj.CopyComplete
+C:\Users\uzer\Desktop\test fnac victor\v1\DevBack.Refactoring\OfferExporter.Common\bin\Debug\net5.0\OfferExporter.Common.deps.json
+C:\Users\uzer\Desktop\test fnac victor\v1\DevBack.Refactoring\OfferExporter.Common\bin\Debug\net5.0\OfferExporter.Common.dll
+C:\Users\uzer\Desktop\test fnac victor\v1\DevBack.Refactoring\OfferExporter.Common\bin\Debug\net5.0\OfferExporter.Common.pdb
+C:\Users\uzer\Desktop\test fnac victor\v1\DevBack.Refactoring\OfferExporter.Common\bin\Debug\net5.0\OfferExporter.Models.dll
+C:\Users\uzer\Desktop\test fnac victor\v1\DevBack.Refactoring\OfferExporter.Common\bin\Debug\net5.0\OfferExporter.Models.pdb
+C:\Users\uzer\Desktop\test fnac victor\v1\DevBack.Refactoring\OfferExporter.Common\obj\Debug\net5.0\OfferExporter.Common.csproj.AssemblyReference.cache
+C:\Users\uzer\Desktop\test fnac victor\v1\DevBack.Refactoring\OfferExporter.Common\obj\Debug\net5.0\OfferExporter.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uzer\Desktop\test fnac victor\v1\DevBack.Refactoring\OfferExporter.Common\obj\Debug\net5.0\OfferExporter.Common.AssemblyInfoInputs.cache
+C:\Users\uzer\Desktop\test fnac victor\v1\DevBack.Refactoring\OfferExporter.Common\obj\Debug\net5.0\OfferExporter.Common.AssemblyInfo.cs
+C:\Users\uzer\Desktop\test fnac victor\v1\DevBack.Refactoring\OfferExporter.Common\obj\Debug\net5.0\OfferExporter.Common.csproj.CoreCompileInputs.cache
+C:\Users\uzer\Desktop\test fnac victor\v1\DevBack.Refactoring\OfferExporter.Common\obj\Debug\net5.0\OfferExporter.Common.csproj.CopyComplete
+C:\Users\uzer\Desktop\test fnac victor\v1\DevBack.Refactoring\OfferExporter.Common\obj\Debug\net5.0\OfferExporter.Common.dll
+C:\Users\uzer\Desktop\test fnac victor\v1\DevBack.Refactoring\OfferExporter.Common\obj\Debug\net5.0\refint\OfferExporter.Common.dll
+C:\Users\uzer\Desktop\test fnac victor\v1\DevBack.Refactoring\OfferExporter.Common\obj\Debug\net5.0\OfferExporter.Common.pdb
+C:\Users\uzer\Desktop\test fnac victor\v1\DevBack.Refactoring\OfferExporter.Common\obj\Debug\net5.0\ref\OfferExporter.Common.dll
